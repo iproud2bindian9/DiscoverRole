@@ -1,0 +1,8 @@
+A:\Documents\CSharp.Net\DiscoverRole\DiscoverRole\bin\Debug\DiscoverRole.exe.config
+A:\Documents\CSharp.Net\DiscoverRole\DiscoverRole\bin\Debug\DiscoverRole.exe
+A:\Documents\CSharp.Net\DiscoverRole\DiscoverRole\bin\Debug\DiscoverRole.pdb
+A:\Documents\CSharp.Net\DiscoverRole\DiscoverRole\obj\Debug\DiscoverRole.Form1.resources
+A:\Documents\CSharp.Net\DiscoverRole\DiscoverRole\obj\Debug\DiscoverRole.Properties.Resources.resources
+A:\Documents\CSharp.Net\DiscoverRole\DiscoverRole\obj\Debug\DiscoverRole.csproj.GenerateResource.Cache
+A:\Documents\CSharp.Net\DiscoverRole\DiscoverRole\obj\Debug\DiscoverRole.exe
+A:\Documents\CSharp.Net\DiscoverRole\DiscoverRole\obj\Debug\DiscoverRole.pdb
